@@ -30,8 +30,8 @@ cod_matricula
 
 3- Como essas entidades estão relacionadas?
 
-cursos possuem turmas,
+cursos possuem turmas
 
-turmas possuem professores e alunos,
+turmas possuem professores e alunos
 
-alunos possuem matricula.
+alunos possuem matricula
