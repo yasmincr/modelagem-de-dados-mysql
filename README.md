@@ -3,15 +3,12 @@
  Neste projeto ultilizando a linguagem MySQL temos a modelagem de banco de dados para uma escola, usando como base modelos conceituais e lógicos.
 
 1- Existem outras entidades além dessas três (curso, turma, aluno)?
+
 Sim, seriam elas:
 cursos
-
 turmas
-
 alunos
-
 professores
-
 matriculas
 
 2- Quais são os principais campos e tipos?
