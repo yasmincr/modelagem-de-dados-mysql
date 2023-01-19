@@ -5,13 +5,19 @@
 1- Existem outras entidades além dessas três (curso, turma, aluno)?
 
 Sim, seriam elas:
+
 cursos
+
 turmas
+
 alunos
+
 professores
+
 matriculas
 
 2- Quais são os principais campos e tipos?
+
 cod_cursos
 
 cod_turma
@@ -23,6 +29,7 @@ cod_prof
 cod_matricula
 
 3- Como essas entidades estão relacionadas?
+
 cursos possuem turmas,
 
 turmas possuem professores e alunos
